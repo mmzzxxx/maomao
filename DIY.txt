@@ -17,8 +17,6 @@
 # 套Biubiu+LiteApple规则
 "spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/0608.jar",
 //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
-
-
 //"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
 "spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
 "spider":"https://wp.wangshi520.com/down.php/065c92f7720fa01e64086455d201cfe1.jar",
@@ -41,7 +39,7 @@
 {"key":"csp_xpath_nbys","name":"🍭泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Dy1990","name":"👒1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_xpath_qiyou","name":"🐞奇优","type":3,"api":"csp_XPath","searchable":0,"quickSearch":1 ,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/603-qiyou.js"},
-
+{"key":"csp_xpath_huya","name":"㊙︎扛把子(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/kangbazi.json"},
 
 ## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple规则
 ## --> spider 改 "spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/XBiubiuLA2.jar",
@@ -53,7 +51,6 @@
 
 
 // ⇩⇩ XML ⇩⇩
-
 {"key":"诺讯采集","name":"🚬诺讯采集","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","playUrl":"https://www.nxflv.com/?url="},
 {"key":"腾讯官网","name":"🌀腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
