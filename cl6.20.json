@@ -1,11 +1,6 @@
 {
-
-## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
-
-  "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://mmzzxxx.github.io/maomao/长老6.20.jar",
   
-  "sites": [
+ "sites": [
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -287,6 +282,6 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
+  ],"spider": "https://mmzzxxx.github.io/maomao/cl6.20.jar",
 
 }
