@@ -1,3 +1,4 @@
+
 {
 
 ## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
@@ -7,7 +8,7 @@
 
 
 "sites": [
-{"key":"teyond__zh__首页推荐","name":"🏡首页推荐","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1, “可过滤”：1}，
+
 {"key": "csp_GitCafe","name": "🐾小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Alips","name": "🐱喵搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "push_agent","name": "📺推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -26,8 +27,8 @@
 {"key": "csp_xpath_nbys","name": "🍭泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_xpath_qiyou","name":"🐞奇优","type":3,"api":"csp_XPath","searchable":0,"quickSearch":1 ,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/603-qiyou.js"},
-{"key":"csp_xpath_kangbazi","name":"㊙扛把子(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/kangbazi.json"},
-{"key":"csp_biubiu_黑狐影视ns","name":"㊙黑狐影视〔B〕","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/黑狐影视(ns).json"},
+{"key":"csp_xpath_kangbazi","name":"🌎扛把子(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/kangbazi.json"},
+{"key":"csp_biubiu_黑狐影视ns","name":"🌏黑狐影视〔B〕","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/黑狐影视(ns).json"},
 {"key":"csp_biubiu_韩剧佬","name":"🎸韩剧佬〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧佬.json"},  
 {"key":"csp_biubiu_韩剧在线","name":"🐳韩剧在线〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/韩剧在线.json"},
 {"key": "csp_相声小品","name": "🤡相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -69,11 +70,11 @@
 {"key":"csp_biubiu_维奇动漫","name":"维奇动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/维奇动漫.json"},
 
 {"key":"🔞丝袜资源(官采)","name":"🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"🔞麻豆视频2(官采)","name":"🔞麻豆视频2","type":1,"api":"https://madouse.la/api.php/provide/ vod/","可搜索":0,"quickSearch":0},
-{"key":"🔞91麻豆(官采)","name":"🔞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/ ","可搜索":0,"快速搜索":0},
+{"key":"🔞麻豆视频(官采)","name":"🔞麻豆视频","type":1,"api":"https://madouse.la/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"🔞91麻豆(官采)","name":"🔞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"🔞523 资源(官采)","name":"🔞523 资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"🔞芒果资源(官采)","name":"🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"共青春(官采)","name":"共青春","type":1,"api":"https://gqcyy.com/api.php/provide/vod/" ,"playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+{"key":"共青春(官采)","name":"🔞共青春","type":1,"api":"https://gqcyy.com/api.php/provide/vod/" ,"playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_兄弟影视","name":"兄弟影视(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"key":"csp_appysv2_9e国语","name":"9E国语(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 
