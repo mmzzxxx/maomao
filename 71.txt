@@ -26,7 +26,7 @@
 {"key": "csp_Cokemv","name": "🎬Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_nbys","name": "🍭泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_xpath_bidiys","name":"🍄btbdys(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mmzzxxx.github.io/maomao/bidi.json"},
+{"key":"csp_xpath_btbdys","name":"🍄btbdys(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mmzzxxx.github.io/maomao/bidi.json"},
 
 
 {"key":"csp_xpath_kangbazi","name":"🌎扛把子(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/kangbazi.json"},
